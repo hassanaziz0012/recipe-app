@@ -1,0 +1,14 @@
+.ingredients-list {
+    margin: 1em 0;
+}
+
+.ingredient-tag {
+    padding: 0.5em;
+    background-color: var(--dark-background-4);
+    color: var(--light-background-2);
+    border-radius: 500px;
+    margin: 0 0.25em;
+}
+.ingredient-tag:hover {
+    cursor: pointer;
+}

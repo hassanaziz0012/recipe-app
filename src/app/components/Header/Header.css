@@ -1,0 +1,7 @@
+.navbar {
+    background-color: var(--light-background-1);
+}
+
+.nav-link, .navbar-brand {
+    color: var(--dark-background-1);
+}
